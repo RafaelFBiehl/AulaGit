@@ -17,6 +17,10 @@ public class AulaGit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hello wolrd");
+        System.out.println("programa mutante");
+        if (true){
+            System.out.println("sou lindao");
+        }
     }
     
 }
